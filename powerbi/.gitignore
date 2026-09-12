@@ -1,0 +1,5 @@
+*.tmp
+~$*.docx
+~$*.pbix
+Thumbs.db
+.DS_Store
